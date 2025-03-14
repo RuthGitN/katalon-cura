@@ -1,0 +1,2 @@
+# katalon-cura
+TrainingCura
